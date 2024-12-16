@@ -1,0 +1,11 @@
+package main.java.com;
+
+/**
+ * App
+ */
+public class App {
+    public static void main(String[] args) {
+        Hero elf = new Hero(50, "Efl", new String[]{"Bow", "Dager"});
+    }
+    
+}
